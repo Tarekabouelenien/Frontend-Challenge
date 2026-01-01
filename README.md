@@ -4,10 +4,9 @@ To run this locally:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/YourUsername/react-pixel-perfect-test.git
-    cd react-pixel-perfect-test
+    git clone https://github.com/Tarekabouelenien/Frontend-Challenge.git
+    cd Frontend-Challenge
     ```
-    *(Replace the URL with your actual GitHub repository link)*
 
 2.  **Install dependencies:**
     ```bash
